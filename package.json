@@ -1,0 +1,17 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "Discord RPC",
+  "main": "index.js",
+  "dependencies": {
+    "discord-rpc": "git+https://github.com/djs/discord-rpc.git",
+    "node-fetch": "^2.6.1",
+    "ws": "^7.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mira",
+  "license": "ISC"
+}
