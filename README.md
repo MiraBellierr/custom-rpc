@@ -1,7 +1,7 @@
 # Get Started
 1. Clone this repository `git clone https://github.com/MiraBellierr/custom-rpc` in the console.
 2. Then, type `cd custom-rpc`
-3. After that, type `npm i node-fetch` and `npm i ws`.
+3. Type `npm i`.
 
 # In Discord Developer Portal
 1. create a new app.
